@@ -1,0 +1,5615 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-05-17",
+  "changelog": "Initial release — covers Disney/Pixar, Marvel, DC, Star Wars, Harry Potter, Nintendo, Gaming IPs, Anime/Manga, Kaiju/Toho, NFL/NBA/MLB/NHL, Music Artists, Fashion, Tech, Entertainment",
+  "total_terms": 801,
+  "terms": [
+    {
+      "term": "disney",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "disney",
+      "source": "core"
+    },
+    {
+      "term": "mickey mouse",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "mickey mouse",
+      "source": "core"
+    },
+    {
+      "term": "minnie mouse",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "minnie mouse",
+      "source": "core"
+    },
+    {
+      "term": "donald duck",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "donald duck",
+      "source": "core"
+    },
+    {
+      "term": "goofy",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "goofy",
+      "source": "core"
+    },
+    {
+      "term": "pluto",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "pluto",
+      "source": "core"
+    },
+    {
+      "term": "daisy duck",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "daisy duck",
+      "source": "core"
+    },
+    {
+      "term": "chip and dale",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "chip and dale",
+      "source": "core"
+    },
+    {
+      "term": "winnie the pooh",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "winnie the pooh",
+      "source": "core"
+    },
+    {
+      "term": "tigger",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "tigger",
+      "source": "core"
+    },
+    {
+      "term": "eeyore",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "eeyore",
+      "source": "core"
+    },
+    {
+      "term": "piglet",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "piglet",
+      "source": "core"
+    },
+    {
+      "term": "dumbo",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "dumbo",
+      "source": "core"
+    },
+    {
+      "term": "bambi",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "bambi",
+      "source": "core"
+    },
+    {
+      "term": "cinderella",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "cinderella",
+      "source": "core"
+    },
+    {
+      "term": "sleeping beauty",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "sleeping beauty",
+      "source": "core"
+    },
+    {
+      "term": "snow white",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "snow white",
+      "source": "core"
+    },
+    {
+      "term": "little mermaid",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "little mermaid",
+      "source": "core"
+    },
+    {
+      "term": "ariel",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "ariel",
+      "source": "core"
+    },
+    {
+      "term": "belle",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "belle",
+      "source": "core"
+    },
+    {
+      "term": "jasmine",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "jasmine",
+      "source": "core"
+    },
+    {
+      "term": "aladdin",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "aladdin",
+      "source": "core"
+    },
+    {
+      "term": "simba",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "simba",
+      "source": "core"
+    },
+    {
+      "term": "mufasa",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "mufasa",
+      "source": "core"
+    },
+    {
+      "term": "timon",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "timon",
+      "source": "core"
+    },
+    {
+      "term": "pumbaa",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "pumbaa",
+      "source": "core"
+    },
+    {
+      "term": "hakuna matata",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "hakuna matata",
+      "source": "core"
+    },
+    {
+      "term": "buzz lightyear",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "buzz lightyear",
+      "source": "core"
+    },
+    {
+      "term": "woody",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "woody",
+      "source": "core"
+    },
+    {
+      "term": "toy story",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "toy story",
+      "source": "core"
+    },
+    {
+      "term": "finding nemo",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "finding nemo",
+      "source": "core"
+    },
+    {
+      "term": "nemo",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "nemo",
+      "source": "core"
+    },
+    {
+      "term": "dory",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "dory",
+      "source": "core"
+    },
+    {
+      "term": "wall-e",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "wall-e",
+      "source": "core"
+    },
+    {
+      "term": "wall e",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "wall e",
+      "source": "core"
+    },
+    {
+      "term": "moana",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "moana",
+      "source": "core"
+    },
+    {
+      "term": "elsa",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "elsa",
+      "source": "core"
+    },
+    {
+      "term": "anna frozen",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "anna frozen",
+      "source": "core"
+    },
+    {
+      "term": "olaf",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "olaf",
+      "source": "core"
+    },
+    {
+      "term": "frozen",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "frozen",
+      "source": "core"
+    },
+    {
+      "term": "rapunzel",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "rapunzel",
+      "source": "core"
+    },
+    {
+      "term": "tangled",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "tangled",
+      "source": "core"
+    },
+    {
+      "term": "merida",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "merida",
+      "source": "core"
+    },
+    {
+      "term": "brave pixar",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "brave pixar",
+      "source": "core"
+    },
+    {
+      "term": "tiana",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "tiana",
+      "source": "core"
+    },
+    {
+      "term": "encanto",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "encanto",
+      "source": "core"
+    },
+    {
+      "term": "mirabel",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "mirabel",
+      "source": "core"
+    },
+    {
+      "term": "luca pixar",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "luca pixar",
+      "source": "core"
+    },
+    {
+      "term": "turning red",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "turning red",
+      "source": "core"
+    },
+    {
+      "term": "coco pixar",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "coco pixar",
+      "source": "core"
+    },
+    {
+      "term": "inside out",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "inside out",
+      "source": "core"
+    },
+    {
+      "term": "cars pixar",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "cars pixar",
+      "source": "core"
+    },
+    {
+      "term": "lightning mcqueen",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "lightning mcqueen",
+      "source": "core"
+    },
+    {
+      "term": "mater",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "mater",
+      "source": "core"
+    },
+    {
+      "term": "incredibles",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "incredibles",
+      "source": "core"
+    },
+    {
+      "term": "mr incredible",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "mr incredible",
+      "source": "core"
+    },
+    {
+      "term": "elastigirl",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "elastigirl",
+      "source": "core"
+    },
+    {
+      "term": "monsters inc",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "monsters inc",
+      "source": "core"
+    },
+    {
+      "term": "sulley",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "sulley",
+      "source": "core"
+    },
+    {
+      "term": "mike wazowski",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "mike wazowski",
+      "source": "core"
+    },
+    {
+      "term": "stitch",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "stitch",
+      "source": "core"
+    },
+    {
+      "term": "lilo and stitch",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "lilo and stitch",
+      "source": "core"
+    },
+    {
+      "term": "ohana",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "ohana",
+      "source": "core"
+    },
+    {
+      "term": "maleficent",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "maleficent",
+      "source": "core"
+    },
+    {
+      "term": "cruella",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "cruella",
+      "source": "core"
+    },
+    {
+      "term": "ursula",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "ursula",
+      "source": "core"
+    },
+    {
+      "term": "pixar",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "pixar",
+      "source": "core"
+    },
+    {
+      "term": "walt disney",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "walt disney",
+      "source": "core"
+    },
+    {
+      "term": "disneyland",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "disneyland",
+      "source": "core"
+    },
+    {
+      "term": "disney world",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "disney world",
+      "source": "core"
+    },
+    {
+      "term": "soul pixar",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "soul pixar",
+      "source": "core"
+    },
+    {
+      "term": "ratatouille",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "ratatouille",
+      "source": "core"
+    },
+    {
+      "term": "remy",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "remy",
+      "source": "core"
+    },
+    {
+      "term": "mulan",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "mulan",
+      "source": "core"
+    },
+    {
+      "term": "pocahontas",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "pocahontas",
+      "source": "core"
+    },
+    {
+      "term": "hercules disney",
+      "category": "disney",
+      "severity": "block",
+      "term_lower": "hercules disney",
+      "source": "core"
+    },
+    {
+      "term": "hades disney",
+      "category": "disney",
+      "severity": "warn",
+      "term_lower": "hades disney",
+      "source": "core"
+    },
+    {
+      "term": "marvel",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "marvel",
+      "source": "core"
+    },
+    {
+      "term": "mcu",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "mcu",
+      "source": "core"
+    },
+    {
+      "term": "avengers",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "avengers",
+      "source": "core"
+    },
+    {
+      "term": "spider-man",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "spider-man",
+      "source": "core"
+    },
+    {
+      "term": "spiderman",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "spiderman",
+      "source": "core"
+    },
+    {
+      "term": "peter parker",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "peter parker",
+      "source": "core"
+    },
+    {
+      "term": "iron man",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "iron man",
+      "source": "core"
+    },
+    {
+      "term": "tony stark",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "tony stark",
+      "source": "core"
+    },
+    {
+      "term": "captain america",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "captain america",
+      "source": "core"
+    },
+    {
+      "term": "steve rogers",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "steve rogers",
+      "source": "core"
+    },
+    {
+      "term": "thor",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "thor",
+      "source": "core"
+    },
+    {
+      "term": "hulk",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "hulk",
+      "source": "core"
+    },
+    {
+      "term": "bruce banner",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "bruce banner",
+      "source": "core"
+    },
+    {
+      "term": "black widow",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "black widow",
+      "source": "core"
+    },
+    {
+      "term": "hawkeye",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "hawkeye",
+      "source": "core"
+    },
+    {
+      "term": "nick fury",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "nick fury",
+      "source": "core"
+    },
+    {
+      "term": "guardians of the galaxy",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "guardians of the galaxy",
+      "source": "core"
+    },
+    {
+      "term": "star-lord",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "star-lord",
+      "source": "core"
+    },
+    {
+      "term": "gamora",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "gamora",
+      "source": "core"
+    },
+    {
+      "term": "drax",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "drax",
+      "source": "core"
+    },
+    {
+      "term": "rocket raccoon",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "rocket raccoon",
+      "source": "core"
+    },
+    {
+      "term": "groot",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "groot",
+      "source": "core"
+    },
+    {
+      "term": "i am groot",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "i am groot",
+      "source": "core"
+    },
+    {
+      "term": "ant-man",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "ant-man",
+      "source": "core"
+    },
+    {
+      "term": "antman",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "antman",
+      "source": "core"
+    },
+    {
+      "term": "scarlet witch",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "scarlet witch",
+      "source": "core"
+    },
+    {
+      "term": "wanda maximoff",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "wanda maximoff",
+      "source": "core"
+    },
+    {
+      "term": "black panther",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "black panther",
+      "source": "core"
+    },
+    {
+      "term": "wakanda",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "wakanda",
+      "source": "core"
+    },
+    {
+      "term": "wakanda forever",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "wakanda forever",
+      "source": "core"
+    },
+    {
+      "term": "doctor strange",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "doctor strange",
+      "source": "core"
+    },
+    {
+      "term": "captain marvel",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "captain marvel",
+      "source": "core"
+    },
+    {
+      "term": "shang-chi",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "shang-chi",
+      "source": "core"
+    },
+    {
+      "term": "loki",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "loki",
+      "source": "core"
+    },
+    {
+      "term": "thanos",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "thanos",
+      "source": "core"
+    },
+    {
+      "term": "deadpool",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "deadpool",
+      "source": "core"
+    },
+    {
+      "term": "wolverine",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "wolverine",
+      "source": "core"
+    },
+    {
+      "term": "x-men",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "x-men",
+      "source": "core"
+    },
+    {
+      "term": "xmen",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "xmen",
+      "source": "core"
+    },
+    {
+      "term": "magneto",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "magneto",
+      "source": "core"
+    },
+    {
+      "term": "professor x",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "professor x",
+      "source": "core"
+    },
+    {
+      "term": "venom",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "venom",
+      "source": "core"
+    },
+    {
+      "term": "carnage",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "carnage",
+      "source": "core"
+    },
+    {
+      "term": "punisher",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "punisher",
+      "source": "core"
+    },
+    {
+      "term": "daredevil",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "daredevil",
+      "source": "core"
+    },
+    {
+      "term": "infinity gauntlet",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "infinity gauntlet",
+      "source": "core"
+    },
+    {
+      "term": "shield marvel",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "shield marvel",
+      "source": "core"
+    },
+    {
+      "term": "hydra marvel",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "hydra marvel",
+      "source": "core"
+    },
+    {
+      "term": "moon knight",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "moon knight",
+      "source": "core"
+    },
+    {
+      "term": "ms marvel",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "ms marvel",
+      "source": "core"
+    },
+    {
+      "term": "she-hulk",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "she-hulk",
+      "source": "core"
+    },
+    {
+      "term": "thor odinson",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "thor odinson",
+      "source": "core"
+    },
+    {
+      "term": "mjolnir",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "mjolnir",
+      "source": "core"
+    },
+    {
+      "term": "asgard",
+      "category": "marvel",
+      "severity": "warn",
+      "term_lower": "asgard",
+      "source": "core"
+    },
+    {
+      "term": "stan lee",
+      "category": "marvel",
+      "severity": "block",
+      "term_lower": "stan lee",
+      "source": "core"
+    },
+    {
+      "term": "dc comics",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "dc comics",
+      "source": "core"
+    },
+    {
+      "term": "batman",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "batman",
+      "source": "core"
+    },
+    {
+      "term": "bruce wayne",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "bruce wayne",
+      "source": "core"
+    },
+    {
+      "term": "superman",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "superman",
+      "source": "core"
+    },
+    {
+      "term": "clark kent",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "clark kent",
+      "source": "core"
+    },
+    {
+      "term": "wonder woman",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "wonder woman",
+      "source": "core"
+    },
+    {
+      "term": "diana prince",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "diana prince",
+      "source": "core"
+    },
+    {
+      "term": "the flash",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "the flash",
+      "source": "core"
+    },
+    {
+      "term": "barry allen",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "barry allen",
+      "source": "core"
+    },
+    {
+      "term": "green lantern",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "green lantern",
+      "source": "core"
+    },
+    {
+      "term": "aquaman",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "aquaman",
+      "source": "core"
+    },
+    {
+      "term": "cyborg dc",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "cyborg dc",
+      "source": "core"
+    },
+    {
+      "term": "shazam",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "shazam",
+      "source": "core"
+    },
+    {
+      "term": "joker",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "joker",
+      "source": "core"
+    },
+    {
+      "term": "harley quinn",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "harley quinn",
+      "source": "core"
+    },
+    {
+      "term": "poison ivy",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "poison ivy",
+      "source": "core"
+    },
+    {
+      "term": "lex luthor",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "lex luthor",
+      "source": "core"
+    },
+    {
+      "term": "catwoman",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "catwoman",
+      "source": "core"
+    },
+    {
+      "term": "selina kyle",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "selina kyle",
+      "source": "core"
+    },
+    {
+      "term": "green arrow",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "green arrow",
+      "source": "core"
+    },
+    {
+      "term": "nightwing",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "nightwing",
+      "source": "core"
+    },
+    {
+      "term": "robin dc",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "robin dc",
+      "source": "core"
+    },
+    {
+      "term": "batgirl",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "batgirl",
+      "source": "core"
+    },
+    {
+      "term": "gotham",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "gotham",
+      "source": "core"
+    },
+    {
+      "term": "justice league",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "justice league",
+      "source": "core"
+    },
+    {
+      "term": "suicide squad",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "suicide squad",
+      "source": "core"
+    },
+    {
+      "term": "black adam",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "black adam",
+      "source": "core"
+    },
+    {
+      "term": "starfire",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "starfire",
+      "source": "core"
+    },
+    {
+      "term": "raven dc",
+      "category": "dc",
+      "severity": "warn",
+      "term_lower": "raven dc",
+      "source": "core"
+    },
+    {
+      "term": "teen titans",
+      "category": "dc",
+      "severity": "block",
+      "term_lower": "teen titans",
+      "source": "core"
+    },
+    {
+      "term": "star wars",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "star wars",
+      "source": "core"
+    },
+    {
+      "term": "darth vader",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "darth vader",
+      "source": "core"
+    },
+    {
+      "term": "luke skywalker",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "luke skywalker",
+      "source": "core"
+    },
+    {
+      "term": "princess leia",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "princess leia",
+      "source": "core"
+    },
+    {
+      "term": "han solo",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "han solo",
+      "source": "core"
+    },
+    {
+      "term": "chewbacca",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "chewbacca",
+      "source": "core"
+    },
+    {
+      "term": "r2d2",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "r2d2",
+      "source": "core"
+    },
+    {
+      "term": "r2-d2",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "r2-d2",
+      "source": "core"
+    },
+    {
+      "term": "c3po",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "c3po",
+      "source": "core"
+    },
+    {
+      "term": "c-3po",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "c-3po",
+      "source": "core"
+    },
+    {
+      "term": "obi-wan kenobi",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "obi-wan kenobi",
+      "source": "core"
+    },
+    {
+      "term": "obi wan",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "obi wan",
+      "source": "core"
+    },
+    {
+      "term": "yoda",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "yoda",
+      "source": "core"
+    },
+    {
+      "term": "darth maul",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "darth maul",
+      "source": "core"
+    },
+    {
+      "term": "kylo ren",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "kylo ren",
+      "source": "core"
+    },
+    {
+      "term": "the mandalorian",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "the mandalorian",
+      "source": "core"
+    },
+    {
+      "term": "mandalorian",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "mandalorian",
+      "source": "core"
+    },
+    {
+      "term": "grogu",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "grogu",
+      "source": "core"
+    },
+    {
+      "term": "baby yoda",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "baby yoda",
+      "source": "core"
+    },
+    {
+      "term": "this is the way",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "this is the way",
+      "source": "core"
+    },
+    {
+      "term": "jedi",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "jedi",
+      "source": "core"
+    },
+    {
+      "term": "sith",
+      "category": "star_wars",
+      "severity": "warn",
+      "term_lower": "sith",
+      "source": "core"
+    },
+    {
+      "term": "lightsaber",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "lightsaber",
+      "source": "core"
+    },
+    {
+      "term": "millennium falcon",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "millennium falcon",
+      "source": "core"
+    },
+    {
+      "term": "death star",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "death star",
+      "source": "core"
+    },
+    {
+      "term": "stormtrooper",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "stormtrooper",
+      "source": "core"
+    },
+    {
+      "term": "boba fett",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "boba fett",
+      "source": "core"
+    },
+    {
+      "term": "jango fett",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "jango fett",
+      "source": "core"
+    },
+    {
+      "term": "padme amidala",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "padme amidala",
+      "source": "core"
+    },
+    {
+      "term": "anakin skywalker",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "anakin skywalker",
+      "source": "core"
+    },
+    {
+      "term": "mace windu",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "mace windu",
+      "source": "core"
+    },
+    {
+      "term": "count dooku",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "count dooku",
+      "source": "core"
+    },
+    {
+      "term": "ahsoka tano",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "ahsoka tano",
+      "source": "core"
+    },
+    {
+      "term": "ahsoka",
+      "category": "star_wars",
+      "severity": "warn",
+      "term_lower": "ahsoka",
+      "source": "core"
+    },
+    {
+      "term": "the force",
+      "category": "star_wars",
+      "severity": "warn",
+      "term_lower": "the force",
+      "source": "core"
+    },
+    {
+      "term": "may the force",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "may the force",
+      "source": "core"
+    },
+    {
+      "term": "darth sidious",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "darth sidious",
+      "source": "core"
+    },
+    {
+      "term": "general grievous",
+      "category": "star_wars",
+      "severity": "block",
+      "term_lower": "general grievous",
+      "source": "core"
+    },
+    {
+      "term": "harry potter",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "harry potter",
+      "source": "core"
+    },
+    {
+      "term": "hermione granger",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "hermione granger",
+      "source": "core"
+    },
+    {
+      "term": "ron weasley",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "ron weasley",
+      "source": "core"
+    },
+    {
+      "term": "dumbledore",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "dumbledore",
+      "source": "core"
+    },
+    {
+      "term": "voldemort",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "voldemort",
+      "source": "core"
+    },
+    {
+      "term": "hogwarts",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "hogwarts",
+      "source": "core"
+    },
+    {
+      "term": "gryffindor",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "gryffindor",
+      "source": "core"
+    },
+    {
+      "term": "slytherin",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "slytherin",
+      "source": "core"
+    },
+    {
+      "term": "hufflepuff",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "hufflepuff",
+      "source": "core"
+    },
+    {
+      "term": "ravenclaw",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "ravenclaw",
+      "source": "core"
+    },
+    {
+      "term": "quidditch",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "quidditch",
+      "source": "core"
+    },
+    {
+      "term": "butterbeer",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "butterbeer",
+      "source": "core"
+    },
+    {
+      "term": "diagon alley",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "diagon alley",
+      "source": "core"
+    },
+    {
+      "term": "snape",
+      "category": "wizarding_world",
+      "severity": "warn",
+      "term_lower": "snape",
+      "source": "core"
+    },
+    {
+      "term": "draco malfoy",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "draco malfoy",
+      "source": "core"
+    },
+    {
+      "term": "dobby",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "dobby",
+      "source": "core"
+    },
+    {
+      "term": "hagrid",
+      "category": "wizarding_world",
+      "severity": "warn",
+      "term_lower": "hagrid",
+      "source": "core"
+    },
+    {
+      "term": "patronus",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "patronus",
+      "source": "core"
+    },
+    {
+      "term": "expecto patronum",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "expecto patronum",
+      "source": "core"
+    },
+    {
+      "term": "fantastic beasts",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "fantastic beasts",
+      "source": "core"
+    },
+    {
+      "term": "wizarding world",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "wizarding world",
+      "source": "core"
+    },
+    {
+      "term": "horcrux",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "horcrux",
+      "source": "core"
+    },
+    {
+      "term": "deathly hallows",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "deathly hallows",
+      "source": "core"
+    },
+    {
+      "term": "platform 9 3/4",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "platform 9 3/4",
+      "source": "core"
+    },
+    {
+      "term": "hogwarts express",
+      "category": "wizarding_world",
+      "severity": "block",
+      "term_lower": "hogwarts express",
+      "source": "core"
+    },
+    {
+      "term": "nintendo",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "nintendo",
+      "source": "core"
+    },
+    {
+      "term": "mario",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "mario",
+      "source": "core"
+    },
+    {
+      "term": "super mario",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "super mario",
+      "source": "core"
+    },
+    {
+      "term": "luigi",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "luigi",
+      "source": "core"
+    },
+    {
+      "term": "princess peach",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "princess peach",
+      "source": "core"
+    },
+    {
+      "term": "bowser",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "bowser",
+      "source": "core"
+    },
+    {
+      "term": "yoshi",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "yoshi",
+      "source": "core"
+    },
+    {
+      "term": "toad nintendo",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "toad nintendo",
+      "source": "core"
+    },
+    {
+      "term": "wario",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "wario",
+      "source": "core"
+    },
+    {
+      "term": "waluigi",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "waluigi",
+      "source": "core"
+    },
+    {
+      "term": "donkey kong",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "donkey kong",
+      "source": "core"
+    },
+    {
+      "term": "kirby",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "kirby",
+      "source": "core"
+    },
+    {
+      "term": "link",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "link",
+      "source": "core"
+    },
+    {
+      "term": "zelda",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "zelda",
+      "source": "core"
+    },
+    {
+      "term": "legend of zelda",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "legend of zelda",
+      "source": "core"
+    },
+    {
+      "term": "ganondorf",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "ganondorf",
+      "source": "core"
+    },
+    {
+      "term": "hyrule",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "hyrule",
+      "source": "core"
+    },
+    {
+      "term": "triforce",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "triforce",
+      "source": "core"
+    },
+    {
+      "term": "samus",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "samus",
+      "source": "core"
+    },
+    {
+      "term": "metroid",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "metroid",
+      "source": "core"
+    },
+    {
+      "term": "pikachu",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "pikachu",
+      "source": "core"
+    },
+    {
+      "term": "pokemon",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "pokemon",
+      "source": "core"
+    },
+    {
+      "term": "pokémon",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "pokémon",
+      "source": "core"
+    },
+    {
+      "term": "charizard",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "charizard",
+      "source": "core"
+    },
+    {
+      "term": "mewtwo",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "mewtwo",
+      "source": "core"
+    },
+    {
+      "term": "eevee",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "eevee",
+      "source": "core"
+    },
+    {
+      "term": "bulbasaur",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "bulbasaur",
+      "source": "core"
+    },
+    {
+      "term": "squirtle",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "squirtle",
+      "source": "core"
+    },
+    {
+      "term": "charmander",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "charmander",
+      "source": "core"
+    },
+    {
+      "term": "gengar",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "gengar",
+      "source": "core"
+    },
+    {
+      "term": "snorlax",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "snorlax",
+      "source": "core"
+    },
+    {
+      "term": "lucario",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "lucario",
+      "source": "core"
+    },
+    {
+      "term": "greninja",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "greninja",
+      "source": "core"
+    },
+    {
+      "term": "team rocket",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "team rocket",
+      "source": "core"
+    },
+    {
+      "term": "ash ketchum",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "ash ketchum",
+      "source": "core"
+    },
+    {
+      "term": "catch em all",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "catch em all",
+      "source": "core"
+    },
+    {
+      "term": "gotta catch em all",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "gotta catch em all",
+      "source": "core"
+    },
+    {
+      "term": "splatoon",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "splatoon",
+      "source": "core"
+    },
+    {
+      "term": "animal crossing",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "animal crossing",
+      "source": "core"
+    },
+    {
+      "term": "tom nook",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "tom nook",
+      "source": "core"
+    },
+    {
+      "term": "isabelle",
+      "category": "nintendo",
+      "severity": "warn",
+      "term_lower": "isabelle",
+      "source": "core"
+    },
+    {
+      "term": "fire emblem",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "fire emblem",
+      "source": "core"
+    },
+    {
+      "term": "super smash bros",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "super smash bros",
+      "source": "core"
+    },
+    {
+      "term": "smash bros",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "smash bros",
+      "source": "core"
+    },
+    {
+      "term": "pikmin",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "pikmin",
+      "source": "core"
+    },
+    {
+      "term": "xenoblade",
+      "category": "nintendo",
+      "severity": "block",
+      "term_lower": "xenoblade",
+      "source": "core"
+    },
+    {
+      "term": "minecraft",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "minecraft",
+      "source": "core"
+    },
+    {
+      "term": "creeper minecraft",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "creeper minecraft",
+      "source": "core"
+    },
+    {
+      "term": "roblox",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "roblox",
+      "source": "core"
+    },
+    {
+      "term": "fortnite",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "fortnite",
+      "source": "core"
+    },
+    {
+      "term": "battle royale",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "battle royale",
+      "source": "core"
+    },
+    {
+      "term": "apex legends",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "apex legends",
+      "source": "core"
+    },
+    {
+      "term": "valorant",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "valorant",
+      "source": "core"
+    },
+    {
+      "term": "league of legends",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "league of legends",
+      "source": "core"
+    },
+    {
+      "term": "overwatch",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "overwatch",
+      "source": "core"
+    },
+    {
+      "term": "world of warcraft",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "world of warcraft",
+      "source": "core"
+    },
+    {
+      "term": "call of duty",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "call of duty",
+      "source": "core"
+    },
+    {
+      "term": "warzone",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "warzone",
+      "source": "core"
+    },
+    {
+      "term": "grand theft auto",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "grand theft auto",
+      "source": "core"
+    },
+    {
+      "term": "gta",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "gta",
+      "source": "core"
+    },
+    {
+      "term": "rockstar games",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "rockstar games",
+      "source": "core"
+    },
+    {
+      "term": "red dead redemption",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "red dead redemption",
+      "source": "core"
+    },
+    {
+      "term": "god of war",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "god of war",
+      "source": "core"
+    },
+    {
+      "term": "kratos",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "kratos",
+      "source": "core"
+    },
+    {
+      "term": "the last of us",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "the last of us",
+      "source": "core"
+    },
+    {
+      "term": "final fantasy",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "final fantasy",
+      "source": "core"
+    },
+    {
+      "term": "cloud strife",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "cloud strife",
+      "source": "core"
+    },
+    {
+      "term": "sephiroth",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "sephiroth",
+      "source": "core"
+    },
+    {
+      "term": "kingdom hearts",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "kingdom hearts",
+      "source": "core"
+    },
+    {
+      "term": "sonic the hedgehog",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "sonic the hedgehog",
+      "source": "core"
+    },
+    {
+      "term": "sonic hedgehog",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "sonic hedgehog",
+      "source": "core"
+    },
+    {
+      "term": "tails sonic",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "tails sonic",
+      "source": "core"
+    },
+    {
+      "term": "knuckles sonic",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "knuckles sonic",
+      "source": "core"
+    },
+    {
+      "term": "shadow the hedgehog",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "shadow the hedgehog",
+      "source": "core"
+    },
+    {
+      "term": "dark souls",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "dark souls",
+      "source": "core"
+    },
+    {
+      "term": "elden ring",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "elden ring",
+      "source": "core"
+    },
+    {
+      "term": "sekiro",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "sekiro",
+      "source": "core"
+    },
+    {
+      "term": "bloodborne",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "bloodborne",
+      "source": "core"
+    },
+    {
+      "term": "resident evil",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "resident evil",
+      "source": "core"
+    },
+    {
+      "term": "silent hill",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "silent hill",
+      "source": "core"
+    },
+    {
+      "term": "pyramid head",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "pyramid head",
+      "source": "core"
+    },
+    {
+      "term": "cyberpunk 2077",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "cyberpunk 2077",
+      "source": "core"
+    },
+    {
+      "term": "the witcher",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "the witcher",
+      "source": "core"
+    },
+    {
+      "term": "geralt",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "geralt",
+      "source": "core"
+    },
+    {
+      "term": "undertale",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "undertale",
+      "source": "core"
+    },
+    {
+      "term": "sans undertale",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "sans undertale",
+      "source": "core"
+    },
+    {
+      "term": "five nights at freddys",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "five nights at freddys",
+      "source": "core"
+    },
+    {
+      "term": "fnaf",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "fnaf",
+      "source": "core"
+    },
+    {
+      "term": "freddy fazbear",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "freddy fazbear",
+      "source": "core"
+    },
+    {
+      "term": "among us",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "among us",
+      "source": "core"
+    },
+    {
+      "term": "fall guys",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "fall guys",
+      "source": "core"
+    },
+    {
+      "term": "genshin impact",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "genshin impact",
+      "source": "core"
+    },
+    {
+      "term": "honkai",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "honkai",
+      "source": "core"
+    },
+    {
+      "term": "diablo",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "diablo",
+      "source": "core"
+    },
+    {
+      "term": "starcraft",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "starcraft",
+      "source": "core"
+    },
+    {
+      "term": "hearthstone",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "hearthstone",
+      "source": "core"
+    },
+    {
+      "term": "blizzard",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "blizzard",
+      "source": "core"
+    },
+    {
+      "term": "baldurs gate",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "baldurs gate",
+      "source": "core"
+    },
+    {
+      "term": "dungeons and dragons",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "dungeons and dragons",
+      "source": "core"
+    },
+    {
+      "term": "d&d",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "d&d",
+      "source": "core"
+    },
+    {
+      "term": "cuphead",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "cuphead",
+      "source": "core"
+    },
+    {
+      "term": "hollow knight",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "hollow knight",
+      "source": "core"
+    },
+    {
+      "term": "hades game",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "hades game",
+      "source": "core"
+    },
+    {
+      "term": "stardew valley",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "stardew valley",
+      "source": "core"
+    },
+    {
+      "term": "terraria",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "terraria",
+      "source": "core"
+    },
+    {
+      "term": "pubg",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "pubg",
+      "source": "core"
+    },
+    {
+      "term": "playerunknowns battlegrounds",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "playerunknowns battlegrounds",
+      "source": "core"
+    },
+    {
+      "term": "dota",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "dota",
+      "source": "core"
+    },
+    {
+      "term": "counter-strike",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "counter-strike",
+      "source": "core"
+    },
+    {
+      "term": "cs go",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "cs go",
+      "source": "core"
+    },
+    {
+      "term": "half-life",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "half-life",
+      "source": "core"
+    },
+    {
+      "term": "portal game",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "portal game",
+      "source": "core"
+    },
+    {
+      "term": "team fortress",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "team fortress",
+      "source": "core"
+    },
+    {
+      "term": "rocket league",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "rocket league",
+      "source": "core"
+    },
+    {
+      "term": "persona game",
+      "category": "gaming",
+      "severity": "warn",
+      "term_lower": "persona game",
+      "source": "core"
+    },
+    {
+      "term": "monster hunter",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "monster hunter",
+      "source": "core"
+    },
+    {
+      "term": "devil may cry",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "devil may cry",
+      "source": "core"
+    },
+    {
+      "term": "street fighter",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "street fighter",
+      "source": "core"
+    },
+    {
+      "term": "mortal kombat",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "mortal kombat",
+      "source": "core"
+    },
+    {
+      "term": "tekken",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "tekken",
+      "source": "core"
+    },
+    {
+      "term": "phasmophobia",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "phasmophobia",
+      "source": "core"
+    },
+    {
+      "term": "dead by daylight",
+      "category": "gaming",
+      "severity": "block",
+      "term_lower": "dead by daylight",
+      "source": "core"
+    },
+    {
+      "term": "naruto",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "naruto",
+      "source": "core"
+    },
+    {
+      "term": "sasuke",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "sasuke",
+      "source": "core"
+    },
+    {
+      "term": "itachi",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "itachi",
+      "source": "core"
+    },
+    {
+      "term": "akatsuki",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "akatsuki",
+      "source": "core"
+    },
+    {
+      "term": "sharingan",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "sharingan",
+      "source": "core"
+    },
+    {
+      "term": "rasengan",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "rasengan",
+      "source": "core"
+    },
+    {
+      "term": "konoha",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "konoha",
+      "source": "core"
+    },
+    {
+      "term": "dragon ball",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "dragon ball",
+      "source": "core"
+    },
+    {
+      "term": "dragonball",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "dragonball",
+      "source": "core"
+    },
+    {
+      "term": "goku",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "goku",
+      "source": "core"
+    },
+    {
+      "term": "vegeta",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "vegeta",
+      "source": "core"
+    },
+    {
+      "term": "super saiyan",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "super saiyan",
+      "source": "core"
+    },
+    {
+      "term": "kamehameha",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "kamehameha",
+      "source": "core"
+    },
+    {
+      "term": "frieza",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "frieza",
+      "source": "core"
+    },
+    {
+      "term": "one piece",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "one piece",
+      "source": "core"
+    },
+    {
+      "term": "luffy",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "luffy",
+      "source": "core"
+    },
+    {
+      "term": "straw hat pirate",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "straw hat pirate",
+      "source": "core"
+    },
+    {
+      "term": "attack on titan",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "attack on titan",
+      "source": "core"
+    },
+    {
+      "term": "eren yeager",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "eren yeager",
+      "source": "core"
+    },
+    {
+      "term": "mikasa",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "mikasa",
+      "source": "core"
+    },
+    {
+      "term": "levi ackerman",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "levi ackerman",
+      "source": "core"
+    },
+    {
+      "term": "demon slayer",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "demon slayer",
+      "source": "core"
+    },
+    {
+      "term": "tanjiro",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "tanjiro",
+      "source": "core"
+    },
+    {
+      "term": "nezuko",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "nezuko",
+      "source": "core"
+    },
+    {
+      "term": "kimetsu no yaiba",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "kimetsu no yaiba",
+      "source": "core"
+    },
+    {
+      "term": "my hero academia",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "my hero academia",
+      "source": "core"
+    },
+    {
+      "term": "boku no hero",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "boku no hero",
+      "source": "core"
+    },
+    {
+      "term": "deku",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "deku",
+      "source": "core"
+    },
+    {
+      "term": "all might",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "all might",
+      "source": "core"
+    },
+    {
+      "term": "plus ultra",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "plus ultra",
+      "source": "core"
+    },
+    {
+      "term": "jujutsu kaisen",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "jujutsu kaisen",
+      "source": "core"
+    },
+    {
+      "term": "gojo satoru",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "gojo satoru",
+      "source": "core"
+    },
+    {
+      "term": "sukuna",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "sukuna",
+      "source": "core"
+    },
+    {
+      "term": "bleach anime",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "bleach anime",
+      "source": "core"
+    },
+    {
+      "term": "ichigo kurosaki",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "ichigo kurosaki",
+      "source": "core"
+    },
+    {
+      "term": "fullmetal alchemist",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "fullmetal alchemist",
+      "source": "core"
+    },
+    {
+      "term": "edward elric",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "edward elric",
+      "source": "core"
+    },
+    {
+      "term": "hunter x hunter",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "hunter x hunter",
+      "source": "core"
+    },
+    {
+      "term": "death note",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "death note",
+      "source": "core"
+    },
+    {
+      "term": "light yagami",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "light yagami",
+      "source": "core"
+    },
+    {
+      "term": "ryuk",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "ryuk",
+      "source": "core"
+    },
+    {
+      "term": "chainsaw man",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "chainsaw man",
+      "source": "core"
+    },
+    {
+      "term": "denji",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "denji",
+      "source": "core"
+    },
+    {
+      "term": "spy x family",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "spy x family",
+      "source": "core"
+    },
+    {
+      "term": "anya forger",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "anya forger",
+      "source": "core"
+    },
+    {
+      "term": "sword art online",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "sword art online",
+      "source": "core"
+    },
+    {
+      "term": "fairy tail",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "fairy tail",
+      "source": "core"
+    },
+    {
+      "term": "natsu dragneel",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "natsu dragneel",
+      "source": "core"
+    },
+    {
+      "term": "black clover",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "black clover",
+      "source": "core"
+    },
+    {
+      "term": "re zero",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "re zero",
+      "source": "core"
+    },
+    {
+      "term": "rezero",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "rezero",
+      "source": "core"
+    },
+    {
+      "term": "sailor moon",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "sailor moon",
+      "source": "core"
+    },
+    {
+      "term": "inuyasha",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "inuyasha",
+      "source": "core"
+    },
+    {
+      "term": "gurren lagann",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "gurren lagann",
+      "source": "core"
+    },
+    {
+      "term": "evangelion",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "evangelion",
+      "source": "core"
+    },
+    {
+      "term": "neon genesis evangelion",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "neon genesis evangelion",
+      "source": "core"
+    },
+    {
+      "term": "rei ayanami",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "rei ayanami",
+      "source": "core"
+    },
+    {
+      "term": "asuka langley",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "asuka langley",
+      "source": "core"
+    },
+    {
+      "term": "cowboy bebop",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "cowboy bebop",
+      "source": "core"
+    },
+    {
+      "term": "one punch man",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "one punch man",
+      "source": "core"
+    },
+    {
+      "term": "saitama",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "saitama",
+      "source": "core"
+    },
+    {
+      "term": "mob psycho",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "mob psycho",
+      "source": "core"
+    },
+    {
+      "term": "tokyo ghoul",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "tokyo ghoul",
+      "source": "core"
+    },
+    {
+      "term": "kaneki",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "kaneki",
+      "source": "core"
+    },
+    {
+      "term": "vinland saga",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "vinland saga",
+      "source": "core"
+    },
+    {
+      "term": "jojo bizarre adventure",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "jojo bizarre adventure",
+      "source": "core"
+    },
+    {
+      "term": "jojo",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "jojo",
+      "source": "core"
+    },
+    {
+      "term": "dio brando",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "dio brando",
+      "source": "core"
+    },
+    {
+      "term": "za warudo",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "za warudo",
+      "source": "core"
+    },
+    {
+      "term": "giorno giovanna",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "giorno giovanna",
+      "source": "core"
+    },
+    {
+      "term": "cardcaptor sakura",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "cardcaptor sakura",
+      "source": "core"
+    },
+    {
+      "term": "toradora",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "toradora",
+      "source": "core"
+    },
+    {
+      "term": "fruits basket",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "fruits basket",
+      "source": "core"
+    },
+    {
+      "term": "made in abyss",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "made in abyss",
+      "source": "core"
+    },
+    {
+      "term": "violet evergarden",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "violet evergarden",
+      "source": "core"
+    },
+    {
+      "term": "bocchi the rock",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "bocchi the rock",
+      "source": "core"
+    },
+    {
+      "term": "kaguya sama",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "kaguya sama",
+      "source": "core"
+    },
+    {
+      "term": "oshi no ko",
+      "category": "anime",
+      "severity": "block",
+      "term_lower": "oshi no ko",
+      "source": "core"
+    },
+    {
+      "term": "frieren",
+      "category": "anime",
+      "severity": "warn",
+      "term_lower": "frieren",
+      "source": "core"
+    },
+    {
+      "term": "godzilla",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "godzilla",
+      "source": "core"
+    },
+    {
+      "term": "gojira",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "gojira",
+      "source": "core"
+    },
+    {
+      "term": "catzilla",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "catzilla",
+      "source": "core"
+    },
+    {
+      "term": "mechagodzilla",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "mechagodzilla",
+      "source": "core"
+    },
+    {
+      "term": "king ghidorah",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "king ghidorah",
+      "source": "core"
+    },
+    {
+      "term": "mothra",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "mothra",
+      "source": "core"
+    },
+    {
+      "term": "rodan",
+      "category": "kaiju",
+      "severity": "warn",
+      "term_lower": "rodan",
+      "source": "core"
+    },
+    {
+      "term": "spacegodzilla",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "spacegodzilla",
+      "source": "core"
+    },
+    {
+      "term": "biollante",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "biollante",
+      "source": "core"
+    },
+    {
+      "term": "destoroyah",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "destoroyah",
+      "source": "core"
+    },
+    {
+      "term": "ultraman",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "ultraman",
+      "source": "core"
+    },
+    {
+      "term": "kamen rider",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "kamen rider",
+      "source": "core"
+    },
+    {
+      "term": "super sentai",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "super sentai",
+      "source": "core"
+    },
+    {
+      "term": "monsterverse",
+      "category": "kaiju",
+      "severity": "block",
+      "term_lower": "monsterverse",
+      "source": "core"
+    },
+    {
+      "term": "toho",
+      "category": "kaiju",
+      "severity": "warn",
+      "term_lower": "toho",
+      "source": "core"
+    },
+    {
+      "term": "nfl",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "nfl",
+      "source": "core"
+    },
+    {
+      "term": "super bowl",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "super bowl",
+      "source": "core"
+    },
+    {
+      "term": "new england patriots",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "new england patriots",
+      "source": "core"
+    },
+    {
+      "term": "dallas cowboys",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "dallas cowboys",
+      "source": "core"
+    },
+    {
+      "term": "green bay packers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "green bay packers",
+      "source": "core"
+    },
+    {
+      "term": "pittsburgh steelers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "pittsburgh steelers",
+      "source": "core"
+    },
+    {
+      "term": "chicago bears",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "chicago bears",
+      "source": "core"
+    },
+    {
+      "term": "new york giants",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "new york giants",
+      "source": "core"
+    },
+    {
+      "term": "new york jets",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "new york jets",
+      "source": "core"
+    },
+    {
+      "term": "philadelphia eagles",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "philadelphia eagles",
+      "source": "core"
+    },
+    {
+      "term": "baltimore ravens",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "baltimore ravens",
+      "source": "core"
+    },
+    {
+      "term": "cleveland browns",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "cleveland browns",
+      "source": "core"
+    },
+    {
+      "term": "cincinnati bengals",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "cincinnati bengals",
+      "source": "core"
+    },
+    {
+      "term": "buffalo bills",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "buffalo bills",
+      "source": "core"
+    },
+    {
+      "term": "miami dolphins",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "miami dolphins",
+      "source": "core"
+    },
+    {
+      "term": "houston texans",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "houston texans",
+      "source": "core"
+    },
+    {
+      "term": "indianapolis colts",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "indianapolis colts",
+      "source": "core"
+    },
+    {
+      "term": "jacksonville jaguars",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "jacksonville jaguars",
+      "source": "core"
+    },
+    {
+      "term": "tennessee titans",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "tennessee titans",
+      "source": "core"
+    },
+    {
+      "term": "denver broncos",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "denver broncos",
+      "source": "core"
+    },
+    {
+      "term": "kansas city chiefs",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "kansas city chiefs",
+      "source": "core"
+    },
+    {
+      "term": "las vegas raiders",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "las vegas raiders",
+      "source": "core"
+    },
+    {
+      "term": "los angeles chargers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "los angeles chargers",
+      "source": "core"
+    },
+    {
+      "term": "seattle seahawks",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "seattle seahawks",
+      "source": "core"
+    },
+    {
+      "term": "san francisco 49ers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "san francisco 49ers",
+      "source": "core"
+    },
+    {
+      "term": "los angeles rams",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "los angeles rams",
+      "source": "core"
+    },
+    {
+      "term": "arizona cardinals",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "arizona cardinals",
+      "source": "core"
+    },
+    {
+      "term": "atlanta falcons",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "atlanta falcons",
+      "source": "core"
+    },
+    {
+      "term": "carolina panthers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "carolina panthers",
+      "source": "core"
+    },
+    {
+      "term": "new orleans saints",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "new orleans saints",
+      "source": "core"
+    },
+    {
+      "term": "tampa bay buccaneers",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "tampa bay buccaneers",
+      "source": "core"
+    },
+    {
+      "term": "minnesota vikings",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "minnesota vikings",
+      "source": "core"
+    },
+    {
+      "term": "detroit lions",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "detroit lions",
+      "source": "core"
+    },
+    {
+      "term": "washington commanders",
+      "category": "sports_nfl",
+      "severity": "block",
+      "term_lower": "washington commanders",
+      "source": "core"
+    },
+    {
+      "term": "nba",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "nba",
+      "source": "core"
+    },
+    {
+      "term": "los angeles lakers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "los angeles lakers",
+      "source": "core"
+    },
+    {
+      "term": "boston celtics",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "boston celtics",
+      "source": "core"
+    },
+    {
+      "term": "golden state warriors",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "golden state warriors",
+      "source": "core"
+    },
+    {
+      "term": "chicago bulls",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "chicago bulls",
+      "source": "core"
+    },
+    {
+      "term": "miami heat",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "miami heat",
+      "source": "core"
+    },
+    {
+      "term": "new york knicks",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "new york knicks",
+      "source": "core"
+    },
+    {
+      "term": "brooklyn nets",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "brooklyn nets",
+      "source": "core"
+    },
+    {
+      "term": "philadelphia 76ers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "philadelphia 76ers",
+      "source": "core"
+    },
+    {
+      "term": "toronto raptors",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "toronto raptors",
+      "source": "core"
+    },
+    {
+      "term": "milwaukee bucks",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "milwaukee bucks",
+      "source": "core"
+    },
+    {
+      "term": "denver nuggets",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "denver nuggets",
+      "source": "core"
+    },
+    {
+      "term": "phoenix suns",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "phoenix suns",
+      "source": "core"
+    },
+    {
+      "term": "los angeles clippers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "los angeles clippers",
+      "source": "core"
+    },
+    {
+      "term": "dallas mavericks",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "dallas mavericks",
+      "source": "core"
+    },
+    {
+      "term": "houston rockets",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "houston rockets",
+      "source": "core"
+    },
+    {
+      "term": "san antonio spurs",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "san antonio spurs",
+      "source": "core"
+    },
+    {
+      "term": "oklahoma city thunder",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "oklahoma city thunder",
+      "source": "core"
+    },
+    {
+      "term": "portland trail blazers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "portland trail blazers",
+      "source": "core"
+    },
+    {
+      "term": "utah jazz",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "utah jazz",
+      "source": "core"
+    },
+    {
+      "term": "new orleans pelicans",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "new orleans pelicans",
+      "source": "core"
+    },
+    {
+      "term": "memphis grizzlies",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "memphis grizzlies",
+      "source": "core"
+    },
+    {
+      "term": "sacramento kings",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "sacramento kings",
+      "source": "core"
+    },
+    {
+      "term": "minnesota timberwolves",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "minnesota timberwolves",
+      "source": "core"
+    },
+    {
+      "term": "detroit pistons",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "detroit pistons",
+      "source": "core"
+    },
+    {
+      "term": "indiana pacers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "indiana pacers",
+      "source": "core"
+    },
+    {
+      "term": "cleveland cavaliers",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "cleveland cavaliers",
+      "source": "core"
+    },
+    {
+      "term": "atlanta hawks",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "atlanta hawks",
+      "source": "core"
+    },
+    {
+      "term": "charlotte hornets",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "charlotte hornets",
+      "source": "core"
+    },
+    {
+      "term": "orlando magic",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "orlando magic",
+      "source": "core"
+    },
+    {
+      "term": "washington wizards",
+      "category": "sports_nba",
+      "severity": "block",
+      "term_lower": "washington wizards",
+      "source": "core"
+    },
+    {
+      "term": "mlb",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "mlb",
+      "source": "core"
+    },
+    {
+      "term": "new york yankees",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "new york yankees",
+      "source": "core"
+    },
+    {
+      "term": "boston red sox",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "boston red sox",
+      "source": "core"
+    },
+    {
+      "term": "los angeles dodgers",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "los angeles dodgers",
+      "source": "core"
+    },
+    {
+      "term": "san francisco giants",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "san francisco giants",
+      "source": "core"
+    },
+    {
+      "term": "chicago cubs",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "chicago cubs",
+      "source": "core"
+    },
+    {
+      "term": "st louis cardinals",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "st louis cardinals",
+      "source": "core"
+    },
+    {
+      "term": "new york mets",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "new york mets",
+      "source": "core"
+    },
+    {
+      "term": "atlanta braves",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "atlanta braves",
+      "source": "core"
+    },
+    {
+      "term": "philadelphia phillies",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "philadelphia phillies",
+      "source": "core"
+    },
+    {
+      "term": "houston astros",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "houston astros",
+      "source": "core"
+    },
+    {
+      "term": "texas rangers",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "texas rangers",
+      "source": "core"
+    },
+    {
+      "term": "seattle mariners",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "seattle mariners",
+      "source": "core"
+    },
+    {
+      "term": "toronto blue jays",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "toronto blue jays",
+      "source": "core"
+    },
+    {
+      "term": "tampa bay rays",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "tampa bay rays",
+      "source": "core"
+    },
+    {
+      "term": "baltimore orioles",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "baltimore orioles",
+      "source": "core"
+    },
+    {
+      "term": "chicago white sox",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "chicago white sox",
+      "source": "core"
+    },
+    {
+      "term": "cleveland guardians",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "cleveland guardians",
+      "source": "core"
+    },
+    {
+      "term": "kansas city royals",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "kansas city royals",
+      "source": "core"
+    },
+    {
+      "term": "minnesota twins",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "minnesota twins",
+      "source": "core"
+    },
+    {
+      "term": "detroit tigers",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "detroit tigers",
+      "source": "core"
+    },
+    {
+      "term": "miami marlins",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "miami marlins",
+      "source": "core"
+    },
+    {
+      "term": "washington nationals",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "washington nationals",
+      "source": "core"
+    },
+    {
+      "term": "san diego padres",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "san diego padres",
+      "source": "core"
+    },
+    {
+      "term": "colorado rockies",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "colorado rockies",
+      "source": "core"
+    },
+    {
+      "term": "arizona diamondbacks",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "arizona diamondbacks",
+      "source": "core"
+    },
+    {
+      "term": "pittsburgh pirates",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "pittsburgh pirates",
+      "source": "core"
+    },
+    {
+      "term": "milwaukee brewers",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "milwaukee brewers",
+      "source": "core"
+    },
+    {
+      "term": "cincinnati reds",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "cincinnati reds",
+      "source": "core"
+    },
+    {
+      "term": "oakland athletics",
+      "category": "sports_mlb",
+      "severity": "block",
+      "term_lower": "oakland athletics",
+      "source": "core"
+    },
+    {
+      "term": "nhl",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "nhl",
+      "source": "core"
+    },
+    {
+      "term": "stanley cup",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "stanley cup",
+      "source": "core"
+    },
+    {
+      "term": "boston bruins",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "boston bruins",
+      "source": "core"
+    },
+    {
+      "term": "montreal canadiens",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "montreal canadiens",
+      "source": "core"
+    },
+    {
+      "term": "toronto maple leafs",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "toronto maple leafs",
+      "source": "core"
+    },
+    {
+      "term": "new york rangers",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "new york rangers",
+      "source": "core"
+    },
+    {
+      "term": "chicago blackhawks",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "chicago blackhawks",
+      "source": "core"
+    },
+    {
+      "term": "detroit red wings",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "detroit red wings",
+      "source": "core"
+    },
+    {
+      "term": "pittsburgh penguins",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "pittsburgh penguins",
+      "source": "core"
+    },
+    {
+      "term": "washington capitals",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "washington capitals",
+      "source": "core"
+    },
+    {
+      "term": "tampa bay lightning",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "tampa bay lightning",
+      "source": "core"
+    },
+    {
+      "term": "edmonton oilers",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "edmonton oilers",
+      "source": "core"
+    },
+    {
+      "term": "calgary flames",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "calgary flames",
+      "source": "core"
+    },
+    {
+      "term": "vancouver canucks",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "vancouver canucks",
+      "source": "core"
+    },
+    {
+      "term": "colorado avalanche",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "colorado avalanche",
+      "source": "core"
+    },
+    {
+      "term": "vegas golden knights",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "vegas golden knights",
+      "source": "core"
+    },
+    {
+      "term": "seattle kraken",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "seattle kraken",
+      "source": "core"
+    },
+    {
+      "term": "florida panthers",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "florida panthers",
+      "source": "core"
+    },
+    {
+      "term": "buffalo sabres",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "buffalo sabres",
+      "source": "core"
+    },
+    {
+      "term": "new jersey devils",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "new jersey devils",
+      "source": "core"
+    },
+    {
+      "term": "new york islanders",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "new york islanders",
+      "source": "core"
+    },
+    {
+      "term": "carolina hurricanes",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "carolina hurricanes",
+      "source": "core"
+    },
+    {
+      "term": "columbus blue jackets",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "columbus blue jackets",
+      "source": "core"
+    },
+    {
+      "term": "dallas stars",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "dallas stars",
+      "source": "core"
+    },
+    {
+      "term": "nashville predators",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "nashville predators",
+      "source": "core"
+    },
+    {
+      "term": "st louis blues",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "st louis blues",
+      "source": "core"
+    },
+    {
+      "term": "minnesota wild",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "minnesota wild",
+      "source": "core"
+    },
+    {
+      "term": "winnipeg jets",
+      "category": "sports_nhl",
+      "severity": "block",
+      "term_lower": "winnipeg jets",
+      "source": "core"
+    },
+    {
+      "term": "fifa",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "fifa",
+      "source": "core"
+    },
+    {
+      "term": "real madrid",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "real madrid",
+      "source": "core"
+    },
+    {
+      "term": "fc barcelona",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "fc barcelona",
+      "source": "core"
+    },
+    {
+      "term": "manchester united",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "manchester united",
+      "source": "core"
+    },
+    {
+      "term": "manchester city",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "manchester city",
+      "source": "core"
+    },
+    {
+      "term": "liverpool fc",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "liverpool fc",
+      "source": "core"
+    },
+    {
+      "term": "chelsea fc",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "chelsea fc",
+      "source": "core"
+    },
+    {
+      "term": "arsenal fc",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "arsenal fc",
+      "source": "core"
+    },
+    {
+      "term": "tottenham",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "tottenham",
+      "source": "core"
+    },
+    {
+      "term": "juventus",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "juventus",
+      "source": "core"
+    },
+    {
+      "term": "ac milan",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "ac milan",
+      "source": "core"
+    },
+    {
+      "term": "inter milan",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "inter milan",
+      "source": "core"
+    },
+    {
+      "term": "psg",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "psg",
+      "source": "core"
+    },
+    {
+      "term": "paris saint-germain",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "paris saint-germain",
+      "source": "core"
+    },
+    {
+      "term": "bayern munich",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "bayern munich",
+      "source": "core"
+    },
+    {
+      "term": "borussia dortmund",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "borussia dortmund",
+      "source": "core"
+    },
+    {
+      "term": "champions league",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "champions league",
+      "source": "core"
+    },
+    {
+      "term": "premier league",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "premier league",
+      "source": "core"
+    },
+    {
+      "term": "la liga",
+      "category": "sports_soccer",
+      "severity": "block",
+      "term_lower": "la liga",
+      "source": "core"
+    },
+    {
+      "term": "world cup",
+      "category": "sports_soccer",
+      "severity": "warn",
+      "term_lower": "world cup",
+      "source": "core"
+    },
+    {
+      "term": "taylor swift",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "taylor swift",
+      "source": "core"
+    },
+    {
+      "term": "swiftie",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "swiftie",
+      "source": "core"
+    },
+    {
+      "term": "beyonce",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "beyonce",
+      "source": "core"
+    },
+    {
+      "term": "beyoncé",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "beyoncé",
+      "source": "core"
+    },
+    {
+      "term": "drake rapper",
+      "category": "music",
+      "severity": "warn",
+      "term_lower": "drake rapper",
+      "source": "core"
+    },
+    {
+      "term": "kanye west",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "kanye west",
+      "source": "core"
+    },
+    {
+      "term": "ye kanye",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "ye kanye",
+      "source": "core"
+    },
+    {
+      "term": "rihanna",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "rihanna",
+      "source": "core"
+    },
+    {
+      "term": "ariana grande",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "ariana grande",
+      "source": "core"
+    },
+    {
+      "term": "billie eilish",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "billie eilish",
+      "source": "core"
+    },
+    {
+      "term": "the weeknd",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "the weeknd",
+      "source": "core"
+    },
+    {
+      "term": "post malone",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "post malone",
+      "source": "core"
+    },
+    {
+      "term": "travis scott",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "travis scott",
+      "source": "core"
+    },
+    {
+      "term": "cardi b",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "cardi b",
+      "source": "core"
+    },
+    {
+      "term": "nicki minaj",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "nicki minaj",
+      "source": "core"
+    },
+    {
+      "term": "eminem",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "eminem",
+      "source": "core"
+    },
+    {
+      "term": "slim shady",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "slim shady",
+      "source": "core"
+    },
+    {
+      "term": "kendrick lamar",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "kendrick lamar",
+      "source": "core"
+    },
+    {
+      "term": "j cole",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "j cole",
+      "source": "core"
+    },
+    {
+      "term": "lil wayne",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "lil wayne",
+      "source": "core"
+    },
+    {
+      "term": "juice wrld",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "juice wrld",
+      "source": "core"
+    },
+    {
+      "term": "xxxtentacion",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "xxxtentacion",
+      "source": "core"
+    },
+    {
+      "term": "bad bunny",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "bad bunny",
+      "source": "core"
+    },
+    {
+      "term": "michael jackson",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "michael jackson",
+      "source": "core"
+    },
+    {
+      "term": "madonna",
+      "category": "music",
+      "severity": "warn",
+      "term_lower": "madonna",
+      "source": "core"
+    },
+    {
+      "term": "prince musician",
+      "category": "music",
+      "severity": "warn",
+      "term_lower": "prince musician",
+      "source": "core"
+    },
+    {
+      "term": "bruce springsteen",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "bruce springsteen",
+      "source": "core"
+    },
+    {
+      "term": "metallica",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "metallica",
+      "source": "core"
+    },
+    {
+      "term": "ac/dc",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "ac/dc",
+      "source": "core"
+    },
+    {
+      "term": "guns n roses",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "guns n roses",
+      "source": "core"
+    },
+    {
+      "term": "nirvana band",
+      "category": "music",
+      "severity": "warn",
+      "term_lower": "nirvana band",
+      "source": "core"
+    },
+    {
+      "term": "kurt cobain",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "kurt cobain",
+      "source": "core"
+    },
+    {
+      "term": "foo fighters",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "foo fighters",
+      "source": "core"
+    },
+    {
+      "term": "red hot chili peppers",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "red hot chili peppers",
+      "source": "core"
+    },
+    {
+      "term": "linkin park",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "linkin park",
+      "source": "core"
+    },
+    {
+      "term": "green day",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "green day",
+      "source": "core"
+    },
+    {
+      "term": "the beatles",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "the beatles",
+      "source": "core"
+    },
+    {
+      "term": "rolling stones",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "rolling stones",
+      "source": "core"
+    },
+    {
+      "term": "led zeppelin",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "led zeppelin",
+      "source": "core"
+    },
+    {
+      "term": "pink floyd",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "pink floyd",
+      "source": "core"
+    },
+    {
+      "term": "queen band",
+      "category": "music",
+      "severity": "warn",
+      "term_lower": "queen band",
+      "source": "core"
+    },
+    {
+      "term": "david bowie",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "david bowie",
+      "source": "core"
+    },
+    {
+      "term": "elton john",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "elton john",
+      "source": "core"
+    },
+    {
+      "term": "frank sinatra",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "frank sinatra",
+      "source": "core"
+    },
+    {
+      "term": "bob dylan",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "bob dylan",
+      "source": "core"
+    },
+    {
+      "term": "johnny cash",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "johnny cash",
+      "source": "core"
+    },
+    {
+      "term": "dolly parton",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "dolly parton",
+      "source": "core"
+    },
+    {
+      "term": "luke bryan",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "luke bryan",
+      "source": "core"
+    },
+    {
+      "term": "blake shelton",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "blake shelton",
+      "source": "core"
+    },
+    {
+      "term": "garth brooks",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "garth brooks",
+      "source": "core"
+    },
+    {
+      "term": "carrie underwood",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "carrie underwood",
+      "source": "core"
+    },
+    {
+      "term": "ed sheeran",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "ed sheeran",
+      "source": "core"
+    },
+    {
+      "term": "dua lipa",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "dua lipa",
+      "source": "core"
+    },
+    {
+      "term": "harry styles",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "harry styles",
+      "source": "core"
+    },
+    {
+      "term": "one direction",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "one direction",
+      "source": "core"
+    },
+    {
+      "term": "bts",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "bts",
+      "source": "core"
+    },
+    {
+      "term": "blackpink",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "blackpink",
+      "source": "core"
+    },
+    {
+      "term": "twice kpop",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "twice kpop",
+      "source": "core"
+    },
+    {
+      "term": "stray kids",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "stray kids",
+      "source": "core"
+    },
+    {
+      "term": "aespa",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "aespa",
+      "source": "core"
+    },
+    {
+      "term": "newjeans",
+      "category": "music",
+      "severity": "block",
+      "term_lower": "newjeans",
+      "source": "core"
+    },
+    {
+      "term": "supreme clothing",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "supreme clothing",
+      "source": "core"
+    },
+    {
+      "term": "off-white",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "off-white",
+      "source": "core"
+    },
+    {
+      "term": "off white brand",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "off white brand",
+      "source": "core"
+    },
+    {
+      "term": "gucci",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "gucci",
+      "source": "core"
+    },
+    {
+      "term": "louis vuitton",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "louis vuitton",
+      "source": "core"
+    },
+    {
+      "term": "chanel",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "chanel",
+      "source": "core"
+    },
+    {
+      "term": "prada",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "prada",
+      "source": "core"
+    },
+    {
+      "term": "versace",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "versace",
+      "source": "core"
+    },
+    {
+      "term": "burberry",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "burberry",
+      "source": "core"
+    },
+    {
+      "term": "balenciaga",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "balenciaga",
+      "source": "core"
+    },
+    {
+      "term": "givenchy",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "givenchy",
+      "source": "core"
+    },
+    {
+      "term": "hermes",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "hermes",
+      "source": "core"
+    },
+    {
+      "term": "fendi",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "fendi",
+      "source": "core"
+    },
+    {
+      "term": "dior",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "dior",
+      "source": "core"
+    },
+    {
+      "term": "ysl",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "ysl",
+      "source": "core"
+    },
+    {
+      "term": "yves saint laurent",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "yves saint laurent",
+      "source": "core"
+    },
+    {
+      "term": "valentino",
+      "category": "fashion",
+      "severity": "warn",
+      "term_lower": "valentino",
+      "source": "core"
+    },
+    {
+      "term": "alexander mcqueen",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "alexander mcqueen",
+      "source": "core"
+    },
+    {
+      "term": "ralph lauren",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "ralph lauren",
+      "source": "core"
+    },
+    {
+      "term": "tommy hilfiger",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "tommy hilfiger",
+      "source": "core"
+    },
+    {
+      "term": "calvin klein",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "calvin klein",
+      "source": "core"
+    },
+    {
+      "term": "armani",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "armani",
+      "source": "core"
+    },
+    {
+      "term": "hugo boss",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "hugo boss",
+      "source": "core"
+    },
+    {
+      "term": "lacoste",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "lacoste",
+      "source": "core"
+    },
+    {
+      "term": "fred perry",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "fred perry",
+      "source": "core"
+    },
+    {
+      "term": "champion clothing",
+      "category": "fashion",
+      "severity": "warn",
+      "term_lower": "champion clothing",
+      "source": "core"
+    },
+    {
+      "term": "carhartt",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "carhartt",
+      "source": "core"
+    },
+    {
+      "term": "nike",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "nike",
+      "source": "core"
+    },
+    {
+      "term": "just do it",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "just do it",
+      "source": "core"
+    },
+    {
+      "term": "adidas",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "adidas",
+      "source": "core"
+    },
+    {
+      "term": "puma",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "puma",
+      "source": "core"
+    },
+    {
+      "term": "under armour",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "under armour",
+      "source": "core"
+    },
+    {
+      "term": "new balance",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "new balance",
+      "source": "core"
+    },
+    {
+      "term": "reebok",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "reebok",
+      "source": "core"
+    },
+    {
+      "term": "converse",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "converse",
+      "source": "core"
+    },
+    {
+      "term": "vans shoes",
+      "category": "fashion",
+      "severity": "warn",
+      "term_lower": "vans shoes",
+      "source": "core"
+    },
+    {
+      "term": "air jordan",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "air jordan",
+      "source": "core"
+    },
+    {
+      "term": "yeezy",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "yeezy",
+      "source": "core"
+    },
+    {
+      "term": "bape",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "bape",
+      "source": "core"
+    },
+    {
+      "term": "a bathing ape",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "a bathing ape",
+      "source": "core"
+    },
+    {
+      "term": "stussy",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "stussy",
+      "source": "core"
+    },
+    {
+      "term": "kith clothing",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "kith clothing",
+      "source": "core"
+    },
+    {
+      "term": "fear of god",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "fear of god",
+      "source": "core"
+    },
+    {
+      "term": "palace skateboards",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "palace skateboards",
+      "source": "core"
+    },
+    {
+      "term": "stone island",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "stone island",
+      "source": "core"
+    },
+    {
+      "term": "north face",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "north face",
+      "source": "core"
+    },
+    {
+      "term": "patagonia",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "patagonia",
+      "source": "core"
+    },
+    {
+      "term": "columbia sportswear",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "columbia sportswear",
+      "source": "core"
+    },
+    {
+      "term": "levi strauss",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "levi strauss",
+      "source": "core"
+    },
+    {
+      "term": "levis",
+      "category": "fashion",
+      "severity": "block",
+      "term_lower": "levis",
+      "source": "core"
+    },
+    {
+      "term": "apple inc",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "apple inc",
+      "source": "core"
+    },
+    {
+      "term": "google",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "google",
+      "source": "core"
+    },
+    {
+      "term": "microsoft",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "microsoft",
+      "source": "core"
+    },
+    {
+      "term": "amazon",
+      "category": "tech",
+      "severity": "warn",
+      "term_lower": "amazon",
+      "source": "core"
+    },
+    {
+      "term": "facebook",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "facebook",
+      "source": "core"
+    },
+    {
+      "term": "meta platforms",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "meta platforms",
+      "source": "core"
+    },
+    {
+      "term": "instagram",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "instagram",
+      "source": "core"
+    },
+    {
+      "term": "tiktok",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "tiktok",
+      "source": "core"
+    },
+    {
+      "term": "youtube",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "youtube",
+      "source": "core"
+    },
+    {
+      "term": "netflix",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "netflix",
+      "source": "core"
+    },
+    {
+      "term": "spotify",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "spotify",
+      "source": "core"
+    },
+    {
+      "term": "tesla",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "tesla",
+      "source": "core"
+    },
+    {
+      "term": "spacex",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "spacex",
+      "source": "core"
+    },
+    {
+      "term": "nvidia",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "nvidia",
+      "source": "core"
+    },
+    {
+      "term": "samsung",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "samsung",
+      "source": "core"
+    },
+    {
+      "term": "sony",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "sony",
+      "source": "core"
+    },
+    {
+      "term": "playstation",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "playstation",
+      "source": "core"
+    },
+    {
+      "term": "xbox",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "xbox",
+      "source": "core"
+    },
+    {
+      "term": "snapchat",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "snapchat",
+      "source": "core"
+    },
+    {
+      "term": "twitter",
+      "category": "tech",
+      "severity": "block",
+      "term_lower": "twitter",
+      "source": "core"
+    },
+    {
+      "term": "openai",
+      "category": "tech",
+      "severity": "warn",
+      "term_lower": "openai",
+      "source": "core"
+    },
+    {
+      "term": "the simpsons",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "the simpsons",
+      "source": "core"
+    },
+    {
+      "term": "homer simpson",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "homer simpson",
+      "source": "core"
+    },
+    {
+      "term": "bart simpson",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "bart simpson",
+      "source": "core"
+    },
+    {
+      "term": "family guy",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "family guy",
+      "source": "core"
+    },
+    {
+      "term": "peter griffin",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "peter griffin",
+      "source": "core"
+    },
+    {
+      "term": "south park",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "south park",
+      "source": "core"
+    },
+    {
+      "term": "eric cartman",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "eric cartman",
+      "source": "core"
+    },
+    {
+      "term": "rick and morty",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "rick and morty",
+      "source": "core"
+    },
+    {
+      "term": "rick sanchez",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "rick sanchez",
+      "source": "core"
+    },
+    {
+      "term": "adventure time",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "adventure time",
+      "source": "core"
+    },
+    {
+      "term": "gravity falls",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "gravity falls",
+      "source": "core"
+    },
+    {
+      "term": "bill cipher",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "bill cipher",
+      "source": "core"
+    },
+    {
+      "term": "steven universe",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "steven universe",
+      "source": "core"
+    },
+    {
+      "term": "regular show",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "regular show",
+      "source": "core"
+    },
+    {
+      "term": "we bare bears",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "we bare bears",
+      "source": "core"
+    },
+    {
+      "term": "big hero 6",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "big hero 6",
+      "source": "core"
+    },
+    {
+      "term": "baymax",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "baymax",
+      "source": "core"
+    },
+    {
+      "term": "how to train your dragon",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "how to train your dragon",
+      "source": "core"
+    },
+    {
+      "term": "toothless dragon",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "toothless dragon",
+      "source": "core"
+    },
+    {
+      "term": "kung fu panda",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "kung fu panda",
+      "source": "core"
+    },
+    {
+      "term": "po the panda",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "po the panda",
+      "source": "core"
+    },
+    {
+      "term": "shrek",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "shrek",
+      "source": "core"
+    },
+    {
+      "term": "donkey shrek",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "donkey shrek",
+      "source": "core"
+    },
+    {
+      "term": "puss in boots",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "puss in boots",
+      "source": "core"
+    },
+    {
+      "term": "despicable me",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "despicable me",
+      "source": "core"
+    },
+    {
+      "term": "minions",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "minions",
+      "source": "core"
+    },
+    {
+      "term": "gru despicable",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "gru despicable",
+      "source": "core"
+    },
+    {
+      "term": "transformers",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "transformers",
+      "source": "core"
+    },
+    {
+      "term": "optimus prime",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "optimus prime",
+      "source": "core"
+    },
+    {
+      "term": "bumblebee transformer",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "bumblebee transformer",
+      "source": "core"
+    },
+    {
+      "term": "megatron",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "megatron",
+      "source": "core"
+    },
+    {
+      "term": "teenage mutant ninja turtles",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "teenage mutant ninja turtles",
+      "source": "core"
+    },
+    {
+      "term": "tmnt",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "tmnt",
+      "source": "core"
+    },
+    {
+      "term": "power rangers",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "power rangers",
+      "source": "core"
+    },
+    {
+      "term": "mighty morphin",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "mighty morphin",
+      "source": "core"
+    },
+    {
+      "term": "jurassic park",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "jurassic park",
+      "source": "core"
+    },
+    {
+      "term": "jurassic world",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "jurassic world",
+      "source": "core"
+    },
+    {
+      "term": "ghostbusters",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "ghostbusters",
+      "source": "core"
+    },
+    {
+      "term": "terminator",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "terminator",
+      "source": "core"
+    },
+    {
+      "term": "back to the future",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "back to the future",
+      "source": "core"
+    },
+    {
+      "term": "marty mcfly",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "marty mcfly",
+      "source": "core"
+    },
+    {
+      "term": "indiana jones",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "indiana jones",
+      "source": "core"
+    },
+    {
+      "term": "james bond",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "james bond",
+      "source": "core"
+    },
+    {
+      "term": "007",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "007",
+      "source": "core"
+    },
+    {
+      "term": "john wick",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "john wick",
+      "source": "core"
+    },
+    {
+      "term": "the matrix",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "the matrix",
+      "source": "core"
+    },
+    {
+      "term": "neo matrix",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "neo matrix",
+      "source": "core"
+    },
+    {
+      "term": "fast and furious",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "fast and furious",
+      "source": "core"
+    },
+    {
+      "term": "stranger things",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "stranger things",
+      "source": "core"
+    },
+    {
+      "term": "eleven stranger things",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "eleven stranger things",
+      "source": "core"
+    },
+    {
+      "term": "game of thrones",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "game of thrones",
+      "source": "core"
+    },
+    {
+      "term": "jon snow",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "jon snow",
+      "source": "core"
+    },
+    {
+      "term": "daenerys targaryen",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "daenerys targaryen",
+      "source": "core"
+    },
+    {
+      "term": "got hbo",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "got hbo",
+      "source": "core"
+    },
+    {
+      "term": "breaking bad",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "breaking bad",
+      "source": "core"
+    },
+    {
+      "term": "walter white",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "walter white",
+      "source": "core"
+    },
+    {
+      "term": "heisenberg",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "heisenberg",
+      "source": "core"
+    },
+    {
+      "term": "squid game",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "squid game",
+      "source": "core"
+    },
+    {
+      "term": "money heist",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "money heist",
+      "source": "core"
+    },
+    {
+      "term": "wednesday addams",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "wednesday addams",
+      "source": "core"
+    },
+    {
+      "term": "the addams family",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "the addams family",
+      "source": "core"
+    },
+    {
+      "term": "peaky blinders",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "peaky blinders",
+      "source": "core"
+    },
+    {
+      "term": "tommy shelby",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "tommy shelby",
+      "source": "core"
+    },
+    {
+      "term": "the office tv",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "the office tv",
+      "source": "core"
+    },
+    {
+      "term": "michael scott",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "michael scott",
+      "source": "core"
+    },
+    {
+      "term": "scooby-doo",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "scooby-doo",
+      "source": "core"
+    },
+    {
+      "term": "scooby doo",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "scooby doo",
+      "source": "core"
+    },
+    {
+      "term": "looney tunes",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "looney tunes",
+      "source": "core"
+    },
+    {
+      "term": "bugs bunny",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "bugs bunny",
+      "source": "core"
+    },
+    {
+      "term": "tweety bird",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "tweety bird",
+      "source": "core"
+    },
+    {
+      "term": "tom and jerry",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "tom and jerry",
+      "source": "core"
+    },
+    {
+      "term": "flintstones",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "flintstones",
+      "source": "core"
+    },
+    {
+      "term": "the jetsons",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "the jetsons",
+      "source": "core"
+    },
+    {
+      "term": "scooby gang",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "scooby gang",
+      "source": "core"
+    },
+    {
+      "term": "lord of the rings",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "lord of the rings",
+      "source": "core"
+    },
+    {
+      "term": "frodo",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "frodo",
+      "source": "core"
+    },
+    {
+      "term": "gandalf",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "gandalf",
+      "source": "core"
+    },
+    {
+      "term": "tolkien",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "tolkien",
+      "source": "core"
+    },
+    {
+      "term": "hobbit",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "hobbit",
+      "source": "core"
+    },
+    {
+      "term": "sauron",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "sauron",
+      "source": "core"
+    },
+    {
+      "term": "wednesday netflix",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "wednesday netflix",
+      "source": "core"
+    },
+    {
+      "term": "euphoria hbo",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "euphoria hbo",
+      "source": "core"
+    },
+    {
+      "term": "succession hbo",
+      "category": "entertainment",
+      "severity": "warn",
+      "term_lower": "succession hbo",
+      "source": "core"
+    },
+    {
+      "term": "house of dragon",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "house of dragon",
+      "source": "core"
+    },
+    {
+      "term": "rings of power",
+      "category": "entertainment",
+      "severity": "block",
+      "term_lower": "rings of power",
+      "source": "core"
+    }
+  ]
+}
