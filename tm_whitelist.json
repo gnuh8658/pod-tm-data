@@ -1,0 +1,22 @@
+{
+ "version": "1.1.0",
+ "note": "Danh sách ngữ cảnh miễn trừ. Một term chỉ được bỏ qua khi văn bản chứa ít nhất một cụm ngữ cảnh ở đây. Tool hiện CHƯA có đường tự nạp tệp này (apply_update chỉ đụng trademark_terms) — nó được lưu ở đây làm nguồn để vá lại khi dựng máy mới.",
+ "whitelist": [
+  {"term_lower": "apple", "context_words": ["cider", "orchard", "fruit", "tree", "pie", "picking"]},
+  {"term_lower": "amazon", "context_words": ["rainforest", "river", "jungle", "ecology", "wildlife"]},
+  {"term_lower": "jordan", "context_words": ["almond", "river", "country", "middle east", "almonds"]},
+  {"term_lower": "shell", "context_words": ["seashell", "ocean", "beach", "turtle", "sea"]},
+  {"term_lower": "delta", "context_words": ["river", "blues", "mississippi", "wetland", "bayou"]},
+  {"term_lower": "halo", "context_words": ["angel", "celestial", "divine", "heaven", "ring"]},
+  {"term_lower": "vans", "context_words": ["minivan", "moving van", "cargo van", "van life"]},
+  {"term_lower": "subway", "context_words": ["sandwich", "train", "underground", "metro", "rail"]},
+  {"term_lower": "meta", "context_words": ["analysis", "data", "cognitive", "learning", "study"]},
+  {"term_lower": "steam", "context_words": ["steamboat", "locomotive", "hot spring", "sauna", "bath"]},
+  {"term_lower": "columbia", "context_words": ["university", "district", "college", "british columbia", "river", "gorge", "valley"]},
+  {"term_lower": "champion", "context_words": ["championship", "winning", "trophy", "award", "winner", "mindset", "champion of", "world champion", "be a champion"]},
+  {"term_lower": "converse", "context_words": ["conversation", "converse with", "talking", "chat", "speak", "discuss"]},
+  {"term_lower": "puma", "context_words": ["wild cat", "wildcat", "cougar", "mountain lion", "big cat", "feline", "animal", "wildlife", "predator"]},
+  {"term_lower": "patagonia", "context_words": ["mountain", "hiking", "trek", "glacier", "chile", "argentina", "landscape", "national park", "travel", "trail"]},
+  {"term_lower": "gap", "context_words": ["gap year", "generation gap", "gender gap", "thigh gap", "gap between", "mind the gap"]}
+ ]
+}
